@@ -1,0 +1,55 @@
+body 
+    {
+        margin: 10px;
+        padding: 0;
+    }
+.container 
+    {
+        width: 40%;
+    }
+.system-container 
+    {
+        width: 100%;
+        height: 55vh;
+        overflow-y: scroll;
+    }
+.system-container .system-label, .system-holder 
+    {
+        border-bottom: 1px solid #e8e8e8;
+    }
+.system-container .system-holder 
+    {
+        padding: 5px 0;
+    }
+.system-holder p 
+    {
+        font-size: 18px;
+    }
+#calculate 
+    {
+        margin-top: 10px;
+    }
+.backcolor 
+    {
+        background: #336671;
+    }
+.backcolor.col-sm-12
+    {
+        width: 100%;
+        height: auto;
+        border-radius: 3%;
+    }
+.system-container.well
+    {
+            margin-top: 2%;
+            margin-bottom: 2%;
+    }
+button#calculate
+    {
+            margin-bottom: 1%;
+    }
+h3
+    {
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }

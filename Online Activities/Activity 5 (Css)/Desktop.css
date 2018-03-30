@@ -1,0 +1,28 @@
+.jumbotron
+	{
+		margin: 40px;
+	}
+.jumbotron h1
+	{
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+.jumbotron p
+	{
+		margin-left: 100px;
+		margin-right: 50px;
+	}
+div.box
+	{
+		background-color: black;
+		height: 200px;
+		margin:20px 0;
+		width: 100%;
+	}
+@media screen and (max-width:768px)
+	{
+		.btn
+			{
+				width: 100%;
+			}
+	}
